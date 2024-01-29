@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NoLimit2CoasterImporter",
+	"Description": "Easily import NoLimits 2 roller coaster into Unreal Engine projects",
+	"Category": "Other",
+	"CreatedBy": "Mykola Shevchenko",
+	"CreatedByURL": "https://github.com/mykolawasd",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NoLimit2CoasterImporter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
